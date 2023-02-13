@@ -14,14 +14,15 @@ permalink: /entombedinreveries/
 9. Infernal Aftermath
 10. Monstrosity
 
-## Resease date
+## Release date
 15 July 2017
 
  
-## Personnel
+## Production notes
 Produced by `Juhee Lee` ([Terrormight](https://www.metal-archives.com/bands/Terrormight/3540290935)) and `Hyeseon Kim` (Disruption)
 
-- All Vocals, guitars, bass by `Hyeseon Kim` 
+
+- All vocals, guitars, bass by `Hyeseon Kim` 
 
 
 ### Guest appearances
@@ -29,9 +30,9 @@ Produced by `Juhee Lee` ([Terrormight](https://www.metal-archives.com/bands/Terr
 - Guitar solos by `Jongha Jeong` ([Fecundation](https://www.metal-archives.com/bands/Fecundation/3540394170)) (Tracks 1 and 3)
 - Drums by `Jongyeon Lee` ([Remnants Of The Fallen](https://www.metal-archives.com/bands/Remnants_of_the_Fallen/3540331909))
 
-### Production notes
+### Additional details
 - Drums recorded by `Jongyeon Lee` @ JYL Drum Lab, South Korea
-- Guitars, Vocals, Bass recorded by `Juhee Lee` @ TMT Studio, South Korea
+- Guitars, vocals, bass recorded by `Juhee Lee` @ TMT Studio, South Korea
 - Mixed and Mastered by `Juhee Lee` @ TMT Studio, South Korea
 - All songs written by `Hyeseon Kim`
 - All Lyrics by `Hyeseon Kim` except Track 8 (by `Hera Jang`)
