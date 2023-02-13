@@ -2,11 +2,12 @@
 layout: default
 title: Disruption
 ---
+![logo](https://github.com/Disruption666/disruption666.github.io/blob/main/logo.jpg)
 
 **Disruption** is a melodic death metal band originally from South Korea and currently based in Seattle, WA, USA. <br>
 
 ## Members
-- Hyeseon Kim w. many other guest artists (find more from each album's pages)
+- `Hyeseon Kim` w. many other guest artists (find more from each album's pages)
 
 ## Discography
 - [Entombed in Reveries](https://disruption666.github.io/entombedinreveries) (2017, Full length)
