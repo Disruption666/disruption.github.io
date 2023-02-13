@@ -40,4 +40,4 @@ permalink: /entombedinreveries/
 - All songs written by Hyeseon Kim
 - All Lyrics by Hyeseon Kim except Track 8 (by Hera Jang)
 - Song Arrangements by Hyeseon Kim, Juhee Lee and Jongyeon Lee
-- Cover art and designs by Hyeseon Kim
+- Cover art and designs by `Hyeseon Kim`
