@@ -4,20 +4,20 @@ permalink: /entombedinreveries/
 ---
 
 ## Tracks 
-- Collapse
-- Scent of Hangover
-- Disprove
-- Transition of Phases
-- Lost Ablaze
-- Gaze into the Abyss
-- Thy Silence
-- The Tangerine Anthem
-- Infernal Aftermath
-- Monstrosity
+1. Collapse
+2. Scent of Hangover
+3. Disprove
+4. Transition of Phases
+5. Lost Ablaze
+6. Gaze into the Abyss
+7. Thy Silence
+8. The Tangerine Anthem
+9. Infernal Aftermath
+10. Monstrosity
 
 ## Resease date
 15 July 2017
-
+---
 Disruption is a solo project of `Hyeseon Kim`
 
 - All Vocals, guitars, bass by `Hyeseon Kim`
