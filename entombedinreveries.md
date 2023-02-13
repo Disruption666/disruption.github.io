@@ -17,6 +17,7 @@ permalink: /entombedinreveries/
 
 ## Resease date
 15 July 2017
+
 ---
 Disruption is a solo project of `Hyeseon Kim`
 
