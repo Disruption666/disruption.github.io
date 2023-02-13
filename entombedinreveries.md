@@ -19,9 +19,9 @@ permalink: /entombedinreveries/
 15 July 2017
 
 ---
-Disruption is a solo project of `Hyeseon Kim`
+Disruption is a solo project of `Hyeseon Kim`.
 
-- All Vocals, guitars, bass by `Hyeseon Kim`
+- All Vocals, guitars, bass by `Hyeseon Kim` 
 
 ### Guest appearances
 - Additional guitars by `Juhee Lee` (Tracks 3 and 9)
@@ -29,7 +29,7 @@ Disruption is a solo project of `Hyeseon Kim`
 - Drums by `Jongyeon Lee` ([Remnants Of The Fallen](https://www.metal-archives.com/bands/Remnants_of_the_Fallen/3540331909))
 
 ### Production staffs
-- Produced by Juhee Lee ([Terrormight](https://www.metal-archives.com/bands/Terrormight/3540290935)) and Disruption (=Hyeseon Kim)
+- Produced by `Juhee Lee` ([Terrormight](https://www.metal-archives.com/bands/Terrormight/3540290935)) and `Hyeseon Kim`
 ---
 - Drums recorded by `Jongyeon Lee` @ JYL Drum Lab, South Korea
 - Guitars, Vocals, Bass recorded by `Juhee Lee` @ TMT Studio, South Korea
