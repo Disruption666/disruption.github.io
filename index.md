@@ -2,7 +2,7 @@
 layout: default
 title: Disruption
 ---
-![logo](https://disruption666.github.io/blob/main/logo.jpg)
+![logo](/logo.jpg)
 
 **Disruption** is a melodic death metal band originally from South Korea and currently based in Seattle, WA, USA. <br>
 
