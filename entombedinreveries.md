@@ -2,7 +2,7 @@
 title: Entombed in Reveries
 permalink: /entombedinreveries/
 ---
-![cover](https://github.com/Disruption666/disruption666.github.io/blob/main/ent_cover.jpg)
+![cover](/ent_cover.jpg)
 1. Collapse
 2. Scent of Hangover
 3. Disprove
