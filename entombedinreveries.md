@@ -3,7 +3,6 @@ title: Entombed in Reveries
 permalink: /entombedinreveries/
 ---
 
-## Tracks 
 1. Collapse
 2. Scent of Hangover
 3. Disprove
@@ -15,14 +14,11 @@ permalink: /entombedinreveries/
 9. Infernal Aftermath
 10. Monstrosity
 
-## Resease date
-15 July 2017
 
----
-Disruption is a solo project of `Hyeseon Kim`.
+Produced by `Juhee Lee` ([Terrormight](https://www.metal-archives.com/bands/Terrormight/3540290935)) and Disruption (`Hyeseon Kim`)
 
-- Produced by `Juhee Lee` ([Terrormight](https://www.metal-archives.com/bands/Terrormight/3540290935)) and `Hyeseon Kim`
 - All Vocals, guitars, bass by `Hyeseon Kim` 
+- Resease date: 15 July 2017
 
 ### Guest appearances
 - Additional guitars by `Juhee Lee` (Tracks 3 and 9)
@@ -33,7 +29,6 @@ Disruption is a solo project of `Hyeseon Kim`.
 - Drums recorded by `Jongyeon Lee` @ JYL Drum Lab, South Korea
 - Guitars, Vocals, Bass recorded by `Juhee Lee` @ TMT Studio, South Korea
 - Mixed and Mastered by `Juhee Lee` @ TMT Studio, South Korea
----
 - All songs written by `Hyeseon Kim`
 - All Lyrics by `Hyeseon Kim` except Track 8 (by `Hera Jang`)
 - Song Arrangements by `Hyeseon Kim`, `Juhee Lee` and `Jongyeon Lee`
