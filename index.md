@@ -12,7 +12,7 @@ title: Disruption
 ## Discography
 - [Entombed in Reveries](https://disruption666.github.io/entombedinreveries) (2017, Full length)
 - [Decaying Echoes](https://disruption666.github.io/decayingechoes) (2023, EP)
-- 
+
 ## Find us from
 - [Bandcamp](https://disruption666.bandcamp.com/releases)
 - [Youtube](https://www.youtube.com/@disruption-9926/videos)
